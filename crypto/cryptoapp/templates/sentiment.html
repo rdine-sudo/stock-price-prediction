@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .login-container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            margin-top: 100px;
+        }
+    </style>
+</head>
+<body>
+    {% load static  %}
+
+    <div class="row">
+        <div class="col-3">
+            <img src='{% static "images/logo.png" %}' alt="" class="img-fluid">
+        </div>
+
+        <div class="col"></div>
+
+         <nav class="navbar navbar-expand-sm bg-light"> 
+  
+            <ul class="navbar-nav ml-auto"> 
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/home"> 
+                    Home 
+                    </a> 
+                </li> 
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/prediction"> 
+                    Prediction 
+                    </a> 
+                </li> 
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/sentiment"> 
+                    Sentimental analysis 
+                    </a> 
+                </li> 
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/logout"> 
+                    Logout 
+                    </a> 
+                </li> 
+            </ul> 
+        </nav> 
+        
+    </div>
+
+    
+    <div class="container">
+        <form action="" method="post" class="form-group">
+            {% csrf_token %}
+            <label for="">Select coin</label>
+            <select  class="form-control"  name="currency" id="">
+                <option value=""selected disabled>Select the cryptocurrency</option>
+                <option value="bitcoin">Bitcoin</option>
+                <option value="ethereum">ethereum</option>
+                <option value="dogecoin">dogecoin</option>
+            </select>
+            <input type="submit" class="btn btn-outline-success mt-2">
+        </form>
+    </div>
+
+    <div class="container p-5 ">
+        <h2 class="display-2">{{Sentiment}}</h2>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

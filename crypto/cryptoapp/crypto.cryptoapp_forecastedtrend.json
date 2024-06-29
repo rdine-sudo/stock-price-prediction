@@ -1,0 +1,900 @@
+[{
+  "_id": {
+    "$oid": "65228cd4acef445efe051837"
+  },
+  "Date": {
+    "$date": "2023-10-09T00:00:00.000Z"
+  },
+  "Forecast": 1698.6586,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051838"
+  },
+  "Date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "Forecast": 1688.5961,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051839"
+  },
+  "Date": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  },
+  "Forecast": 1713.3353,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05183a"
+  },
+  "Date": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "Forecast": 1726.6703,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05183b"
+  },
+  "Date": {
+    "$date": "2023-10-13T00:00:00.000Z"
+  },
+  "Forecast": 1738.1694,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05183c"
+  },
+  "Date": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "Forecast": 1731.7372,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05183d"
+  },
+  "Date": {
+    "$date": "2023-10-15T00:00:00.000Z"
+  },
+  "Forecast": 1755.3146,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05183e"
+  },
+  "Date": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "Forecast": 1761.7545,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05183f"
+  },
+  "Date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "Forecast": 1808.8678,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051840"
+  },
+  "Date": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "Forecast": 1792.3314,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051841"
+  },
+  "Date": {
+    "$date": "2023-10-19T00:00:00.000Z"
+  },
+  "Forecast": 1802.4431,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051842"
+  },
+  "Date": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "Forecast": 1810.2343,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051843"
+  },
+  "Date": {
+    "$date": "2023-10-21T00:00:00.000Z"
+  },
+  "Forecast": 1818.8187,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051844"
+  },
+  "Date": {
+    "$date": "2023-10-22T00:00:00.000Z"
+  },
+  "Forecast": 1824.0118,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051845"
+  },
+  "Date": {
+    "$date": "2023-10-23T00:00:00.000Z"
+  },
+  "Forecast": 1858.4604,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051846"
+  },
+  "Date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "Forecast": 1861.0293,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051847"
+  },
+  "Date": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "Forecast": 1881.8396,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051848"
+  },
+  "Date": {
+    "$date": "2023-10-26T00:00:00.000Z"
+  },
+  "Forecast": 1866.556,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051849"
+  },
+  "Date": {
+    "$date": "2023-10-27T00:00:00.000Z"
+  },
+  "Forecast": 1897.131,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05184a"
+  },
+  "Date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "Forecast": 1903.9265,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05184b"
+  },
+  "Date": {
+    "$date": "2023-10-29T00:00:00.000Z"
+  },
+  "Forecast": 1910.1177,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05184c"
+  },
+  "Date": {
+    "$date": "2023-10-30T00:00:00.000Z"
+  },
+  "Forecast": 1930.9052,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05184d"
+  },
+  "Date": {
+    "$date": "2023-10-31T00:00:00.000Z"
+  },
+  "Forecast": 1940.701,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05184e"
+  },
+  "Date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "Forecast": 1922.9429,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe05184f"
+  },
+  "Date": {
+    "$date": "2023-11-02T00:00:00.000Z"
+  },
+  "Forecast": 1928.169,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051850"
+  },
+  "Date": {
+    "$date": "2023-11-03T00:00:00.000Z"
+  },
+  "Forecast": 1922.3466,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051851"
+  },
+  "Date": {
+    "$date": "2023-11-04T00:00:00.000Z"
+  },
+  "Forecast": 1935.8018,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051852"
+  },
+  "Date": {
+    "$date": "2023-11-05T00:00:00.000Z"
+  },
+  "Forecast": 1907.2935,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051853"
+  },
+  "Date": {
+    "$date": "2023-11-06T00:00:00.000Z"
+  },
+  "Forecast": 1915.1678,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228cd4acef445efe051854"
+  },
+  "Date": {
+    "$date": "2023-11-07T00:00:00.000Z"
+  },
+  "Forecast": 1934.3989,
+  "name": "ethereum"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051855"
+  },
+  "Date": {
+    "$date": "2023-10-09T00:00:00.000Z"
+  },
+  "Forecast": 28742.188,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051856"
+  },
+  "Date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "Forecast": 29398.797,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051857"
+  },
+  "Date": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  },
+  "Forecast": 29405.861,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051858"
+  },
+  "Date": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "Forecast": 29157.209,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051859"
+  },
+  "Date": {
+    "$date": "2023-10-13T00:00:00.000Z"
+  },
+  "Forecast": 29072.988,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05185a"
+  },
+  "Date": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "Forecast": 29394.758,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05185b"
+  },
+  "Date": {
+    "$date": "2023-10-15T00:00:00.000Z"
+  },
+  "Forecast": 29717.504,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05185c"
+  },
+  "Date": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "Forecast": 29695.723,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05185d"
+  },
+  "Date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "Forecast": 29827.012,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05185e"
+  },
+  "Date": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "Forecast": 29757.33,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05185f"
+  },
+  "Date": {
+    "$date": "2023-10-19T00:00:00.000Z"
+  },
+  "Forecast": 29725.23,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051860"
+  },
+  "Date": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "Forecast": 29567.45,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051861"
+  },
+  "Date": {
+    "$date": "2023-10-21T00:00:00.000Z"
+  },
+  "Forecast": 29966.172,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051862"
+  },
+  "Date": {
+    "$date": "2023-10-22T00:00:00.000Z"
+  },
+  "Forecast": 29930.084,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051863"
+  },
+  "Date": {
+    "$date": "2023-10-23T00:00:00.000Z"
+  },
+  "Forecast": 29885.492,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051864"
+  },
+  "Date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "Forecast": 29914.26,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051865"
+  },
+  "Date": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "Forecast": 29835.488,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051866"
+  },
+  "Date": {
+    "$date": "2023-10-26T00:00:00.000Z"
+  },
+  "Forecast": 29758.996,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051867"
+  },
+  "Date": {
+    "$date": "2023-10-27T00:00:00.000Z"
+  },
+  "Forecast": 29369.73,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051868"
+  },
+  "Date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "Forecast": 29734.105,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051869"
+  },
+  "Date": {
+    "$date": "2023-10-29T00:00:00.000Z"
+  },
+  "Forecast": 29793.65,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05186a"
+  },
+  "Date": {
+    "$date": "2023-10-30T00:00:00.000Z"
+  },
+  "Forecast": 29388.09,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05186b"
+  },
+  "Date": {
+    "$date": "2023-10-31T00:00:00.000Z"
+  },
+  "Forecast": 29107.33,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05186c"
+  },
+  "Date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "Forecast": 29478.633,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05186d"
+  },
+  "Date": {
+    "$date": "2023-11-02T00:00:00.000Z"
+  },
+  "Forecast": 28959.363,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05186e"
+  },
+  "Date": {
+    "$date": "2023-11-03T00:00:00.000Z"
+  },
+  "Forecast": 29374.668,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe05186f"
+  },
+  "Date": {
+    "$date": "2023-11-04T00:00:00.000Z"
+  },
+  "Forecast": 28838.11,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051870"
+  },
+  "Date": {
+    "$date": "2023-11-05T00:00:00.000Z"
+  },
+  "Forecast": 29243.254,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051871"
+  },
+  "Date": {
+    "$date": "2023-11-06T00:00:00.000Z"
+  },
+  "Forecast": 28480.64,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228d77acef445efe051872"
+  },
+  "Date": {
+    "$date": "2023-11-07T00:00:00.000Z"
+  },
+  "Forecast": 29019.934,
+  "name": "bitcoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051874"
+  },
+  "Date": {
+    "$date": "2023-10-09T00:00:00.000Z"
+  },
+  "Forecast": 0.06661677,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051875"
+  },
+  "Date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "Forecast": 0.06837519,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051876"
+  },
+  "Date": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  },
+  "Forecast": 0.07179006,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051877"
+  },
+  "Date": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "Forecast": 0.07131044,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051878"
+  },
+  "Date": {
+    "$date": "2023-10-13T00:00:00.000Z"
+  },
+  "Forecast": 0.07025403,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051879"
+  },
+  "Date": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "Forecast": 0.07026572,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05187a"
+  },
+  "Date": {
+    "$date": "2023-10-15T00:00:00.000Z"
+  },
+  "Forecast": 0.069945134,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05187b"
+  },
+  "Date": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "Forecast": 0.06934084,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05187c"
+  },
+  "Date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "Forecast": 0.06754941,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05187d"
+  },
+  "Date": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "Forecast": 0.06729825,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05187e"
+  },
+  "Date": {
+    "$date": "2023-10-19T00:00:00.000Z"
+  },
+  "Forecast": 0.06923093,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05187f"
+  },
+  "Date": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "Forecast": 0.07027434,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051880"
+  },
+  "Date": {
+    "$date": "2023-10-21T00:00:00.000Z"
+  },
+  "Forecast": 0.070782095,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051881"
+  },
+  "Date": {
+    "$date": "2023-10-22T00:00:00.000Z"
+  },
+  "Forecast": 0.071289234,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051882"
+  },
+  "Date": {
+    "$date": "2023-10-23T00:00:00.000Z"
+  },
+  "Forecast": 0.069654025,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051883"
+  },
+  "Date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "Forecast": 0.069791324,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051884"
+  },
+  "Date": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "Forecast": 0.07058049,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051885"
+  },
+  "Date": {
+    "$date": "2023-10-26T00:00:00.000Z"
+  },
+  "Forecast": 0.068870276,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051886"
+  },
+  "Date": {
+    "$date": "2023-10-27T00:00:00.000Z"
+  },
+  "Forecast": 0.069169894,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051887"
+  },
+  "Date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "Forecast": 0.06924812,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051888"
+  },
+  "Date": {
+    "$date": "2023-10-29T00:00:00.000Z"
+  },
+  "Forecast": 0.06683736,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051889"
+  },
+  "Date": {
+    "$date": "2023-10-30T00:00:00.000Z"
+  },
+  "Forecast": 0.06814628,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05188a"
+  },
+  "Date": {
+    "$date": "2023-10-31T00:00:00.000Z"
+  },
+  "Forecast": 0.06719797,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05188b"
+  },
+  "Date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "Forecast": 0.06330137,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05188c"
+  },
+  "Date": {
+    "$date": "2023-11-02T00:00:00.000Z"
+  },
+  "Forecast": 0.06736995,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05188d"
+  },
+  "Date": {
+    "$date": "2023-11-03T00:00:00.000Z"
+  },
+  "Forecast": 0.06681439,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05188e"
+  },
+  "Date": {
+    "$date": "2023-11-04T00:00:00.000Z"
+  },
+  "Forecast": 0.06402934,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe05188f"
+  },
+  "Date": {
+    "$date": "2023-11-05T00:00:00.000Z"
+  },
+  "Forecast": 0.06415829,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051890"
+  },
+  "Date": {
+    "$date": "2023-11-06T00:00:00.000Z"
+  },
+  "Forecast": 0.06369425,
+  "name": "dogecoin"
+},
+{
+  "_id": {
+    "$oid": "65228e1cacef445efe051891"
+  },
+  "Date": {
+    "$date": "2023-11-07T00:00:00.000Z"
+  },
+  "Forecast": 0.06759831,
+  "name": "dogecoin"
+}]

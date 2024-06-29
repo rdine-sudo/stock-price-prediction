@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .login-container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            margin-top: 100px;
+        }
+    </style>
+</head>
+<body>
+    {% load static  %}
+
+    <div class="row">
+        <div class="col-3">
+            <img src='{% static "images/logo.png" %}' alt="" class="img-fluid">
+        </div>
+
+        <div class="col"></div>
+
+         <nav class="navbar navbar-expand-sm bg-light"> 
+  
+            <ul class="navbar-nav ml-auto"> 
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/home"> 
+                    Home 
+                    </a> 
+                </li> 
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/prediction"> 
+                    Prediction 
+                    </a> 
+                </li> 
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/sentiment"> 
+                    Sentimental analysis 
+                    </a> 
+                </li> 
+                <li class="nav-item"> 
+                    <a class="nav-link" href="/logout"> 
+                    Logout 
+                    </a> 
+                </li> 
+            </ul> 
+        </nav> 
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col p-4">
+                <h1>Crypto</h1>
+                <p class="text-justify mt-5">After the boom and bust of blockchain in recent years, cryptocurrency has been increasingly 
+                    regarded as an investment asset. Because of its highly volatile nature, there is a need for good 
+                    predictions on which to base investment decisions. Although existing studies have leveraged machine 
+                    learning for more accurate cryptocurrency price prediction, few have focused on the feasibility of 
+                    applying different modelling techniques to samples with different data structures and dimensional 
+                    features.  Furthermore, the ever-changing 
+                    oscillations suggest a more accurate means of projecting this price is desperately needed. Thus, using 
+                    deep learning techniques such as the recurrent neural network (RNN) and the long short-term memory 
+                    (LSTM), gated recurrent unit (GRU), which are effective learning models for training data, we must 
+                    design a method for the accurate prediction of by considering various factors such as market cap, 
+                    maximum supply and, volume, circulating supply. The proposed method is written in Python and 
+                    tested on benchmark datasets. The results show that the proposed method can be used to make reliable 
+                    predictions. Thus, the neural network, which has been used by academics in numerous fields over the 
+                    past ten years as one of the intelligent data mining tools
+                    </p>
+            </div>
+            <div class="col">
+                <img src='{% static "images/clip.png" %}' alt="" class="img-fluid" style="border-radius: 50px;">
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
