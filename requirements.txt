@@ -1,0 +1,17 @@
+BeautifulSoup4
+Django
+Fabric
+Jinja2
+PyYAML
+Pygments
+SQLAlchemy
+South
+amqplib
+anyjson
+pandas 
+numpy 
+Scrapy
+SciPy
+Keras
+SciKit-Learn
+Seaborn
